@@ -1,0 +1,25 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmachlenkin/nodeJS_practice.git"
+  },
+  "author": "Dan Machlenkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmachlenkin/nodeJS_practice/issues"
+  },
+  "homepage": "https://github.com/danmachlenkin/nodeJS_practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
